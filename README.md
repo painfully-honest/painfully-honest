@@ -1,4 +1,1 @@
-
-<p align="center" width="100%">
-   
-Wip.. Ok? 
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=4200&pause=1000&color=blue&center=true&vCenter=true&width=1000&font=Fira+Code&weight=700&lines=+%22+sdiybt+%22++++" alt="typing animation"> </h1>
