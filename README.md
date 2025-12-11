@@ -1,1 +1,1 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=4200&pause=1000&color=C5D6D1&center=true&vCenter=true&width=1000&font=Fira+Code&weight=700&lines=+%22+IHasAFaceLULZ+%22++++" alt="typing animation"> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=4200&pause=1000&color=C5D6D1&center=true&vCenter=true&width=1000&font=Fira+Code&weight=700&lines=+%22+wip+%22++++" alt="typing animation"> </h1>
